@@ -14,3 +14,7 @@ Then launch smart contract using truffle.
 Then add accounts public key in .json file.
 Login in Metamask with authorized account i.e account which is allowed to vote for that constituency.
 Launch website(front-end) from src folder above.
+
+
+Smart Contract is present in election-2019_update/contracts
+.json file for each constituency which in which that constituency accounts are recorded which are authorized to vot for that constituency.

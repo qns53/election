@@ -17,4 +17,4 @@ Launch website(front-end) from src folder above.
 
 
 Smart Contract is present in election-2019_update/contracts and
-.json file for each constituency which in which that constituency accounts are recorded which are authorized to vot for that constituency.
+.json file for each constituency which in which that constituency accounts are recorded which are authorized to vot for that constituency is in src/js.

@@ -1,0 +1,158 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #f4c430;
+	font-family: 'Oxygen',sans-serif;
+}
+#logo-img{
+	background: url("images/Flag-India.jpg") no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 40px 10px 0;
+}
+#header-nav{
+	background-color: #800000;
+	border-radius: 0;
+	border: 0;
+
+}
+#tile{
+
+	font-family: 'Lora', serif;
+	color: #f4c430;
+	font-size: 4em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	text-decoration-line: underline;
+  	
+  	text-decoration-style: solid;
+	
+}
+.container .jumbotron {
+  box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
+  background-color: #f4c430;
+  /*padding-right: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  padding-left: 0;*/
+}
+
+/* Dropdown */
+.dropbtn {
+  background-color: #800000;
+  color: #f4c430;
+  padding: 16px;
+  font-size: 2em;
+  border: none;
+  cursor: pointer;
+
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f4c430;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: #800000;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration-line: underline;
+  	
+  	
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f4c430}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  /*background-color: #3e8e41;*/
+}
+
+/* Dropdown End */
+
+/* Index.html */
+#iheading{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #800000;
+	font-size: 2em;
+
+}
+#content th{
+
+	color: #800000;
+}
+#content td{
+
+	color: #800000;
+}
+#candsel{
+	color: #800000;
+	font-size: 1.3em;
+
+}
+#bn{
+	background-color: #800000;
+}
+#accountAddress{
+	color: #800000;
+}
+#content_p th{
+
+	color: #800000;
+}
+#content_p td{
+
+	color: #800000;
+}
+#content_d th{
+
+	color: #800000;
+}
+#content_d td{
+
+	color: #800000;
+}
+#load{
+	color: #800000;
+	font-size: 1.2em;
+}
+#bllt{
+
+	font-size: 2.5em;
+	color: #800000;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration: underline;
+}
